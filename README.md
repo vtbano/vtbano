@@ -6,7 +6,7 @@
    :dancer:Working on more projects, while managing a full time work schedule  
 
 
-#### Upcoming
+### 🌱Upcoming
 ⚙️ I will be working on a project that will focus on sharpening my skills with **Object Oriented Programming**   
    and building my knowledge on <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=flat-square&logo=ruby&logoColor=white"/>  
 ### Developer Tools
@@ -54,16 +54,4 @@
 <p>
 <a href="https://www.linkedin.com/in/vanessatbano/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/>
 </p>
-<!--
-**vtbano/vtbano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
