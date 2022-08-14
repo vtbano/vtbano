@@ -35,8 +35,8 @@
 
 <p>
 <img src="https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens"/>
 
 </p>
