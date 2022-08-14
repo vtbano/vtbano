@@ -1,6 +1,17 @@
 ## Hi there 👋
 ### I'm Vanessa, Full-Stack Developer 
 
+- 😄 **Pronouns**: She/Her
+- :sparkles:**Recent full stack project**: BrushUp _(check it out in the pins below)_
+- 👩‍💻 Currently all my projects use functional programming principles 
+- :dancer:Working on more projects, while managing a full time work schedule 
+
+
+#### Upcoming
+⚙️ I will be working on a project that will focus on sharpening my skills with **Object Oriented Programming** 
+
+and build my knowledge on <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=flat-square&logo=ruby&logoColor=white"/>
+
 ### Developer Tools
 <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
@@ -39,6 +50,12 @@
 <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
 </p>
+
+
+📣 **_Need to contact me?_** Feel free to reach out via LinkedIn
+<p>
+<a href="https://www.linkedin.com/in/vanessatbano/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/>
+</p>
 <!--
 **vtbano/vtbano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -50,6 +67,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
