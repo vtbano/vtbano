@@ -1,16 +1,14 @@
 ![Banner](https://github.com/vtbano/vtbano/blob/main/Vanessa%20-Profile%20Banner.png)
 
-- 😄 **Pronouns**: She/Her
-- :sparkles:**Recent full stack project**: BrushUp _(check it out in the pins below)_
-- 👩‍💻 Currently all my projects use functional programming principles 
-- :dancer:Working on more projects, while managing a full time work schedule 
+   :smiley: **Pronouns**: She/Her  
+   :sparkles:**Recent full stack project**: BrushUp _(check it out in the pins below)_  
+   👩‍💻 Currently all my projects use functional programming principles  
+   :dancer:Working on more projects, while managing a full time work schedule  
 
 
 #### Upcoming
-⚙️ I will be working on a project that will focus on sharpening my skills with **Object Oriented Programming** 
-
-and build my knowledge on <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=flat-square&logo=ruby&logoColor=white"/>
-
+⚙️ I will be working on a project that will focus on sharpening my skills with **Object Oriented Programming**   
+   and building my knowledge on <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=flat-square&logo=ruby&logoColor=white"/>  
 ### Developer Tools
 <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
@@ -18,6 +16,7 @@ and build my knowledge on <img src="https://img.shields.io/badge/ruby-%23CC342D.
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
     <img src="https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=flat-square&logo=heroku&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=white"/>
    
   </p>
   
