@@ -1,5 +1,4 @@
-## Hi there 👋
-### I'm Vanessa, Full-Stack Developer 
+![Banner](https://github.com/vtbano/vtbano/blob/main/Vanessa%20-Profile%20Banner.png)
 
 - 😄 **Pronouns**: She/Her
 - :sparkles:**Recent full stack project**: BrushUp _(check it out in the pins below)_
